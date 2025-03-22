@@ -1,3 +1,6 @@
+С днём рождения
+
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -65,4 +68,3 @@
     </script>
 </body>
 </html>
-pyBirthday.html…]()
